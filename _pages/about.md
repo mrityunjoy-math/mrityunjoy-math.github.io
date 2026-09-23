@@ -17,7 +17,7 @@ My research lies in the **numerical analysis of singular perturbation problems**
 
 Other profiles
 ------
-[MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1542962) &nbsp;|&nbsp; [Vidwan](https://vidwan.inflibnet.ac.in/profile/722773/NzIyNzcz)
+[MathSciNet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1542962) &nbsp;|&nbsp; [Vidwan](https://vidwan.inflibnet.ac.in/profile/722773/)
 
 Office address
 ------
@@ -30,5 +30,5 @@ Email: [mrityunjoybarman@soa.ac.in](mailto:mrityunjoybarman@soa.ac.in) (office),
 Useful links
 ------
 * [IIT Guwahati](http://www.iitg.ac.in/)
-* [GATE 2026 - IIT Guwahati](https://gate2026.iitg.ac.in/)
-* [JAM 2026 - IIT Bombay](https://jam2026.iitb.ac.in/)
+* [GATE 2026 - IIT Madras](https://gate2027.iitm.ac.in/)
+* [JAM 2026 - IIT Kharagpur](https://jam.iitkgp.ac.in/)
