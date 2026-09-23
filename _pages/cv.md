@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- To offer a PDF download, put your CV in /files/ and uncomment the next line -->
+<!-- [Download CV (PDF)](/files/Mrityunjoy_Barman_CV.pdf) -->
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Mathematics, Indian Institute of Technology Guwahati, Jul 2017 – Nov 2023
+  * Supervisor: [Prof. Srinivasan Natesan](http://iitg.ac.in/natesan)
+* MSc in Mathematics, Indian Institute of Technology Guwahati, Jul 2015 – Jun 2017
+* BSc, University of North Bengal, Jul 2012 – May 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Assistant Professor, Department of CSE, Siksha 'O' Anusandhan University, Bhubaneswar, Oct 2023 – present
+* Senior Research Fellow, Department of Mathematics, IIT Guwahati, Jul 2017 – Dec 2023
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Conferences and workshops attended
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Jun 2025: Recent Trends in Differential Equations and Numerical Computing, NIT Calicut, Kerala
+* May 2025: Physics-Driven Machine Learning for Fluid Dynamics with Special Reference to Weather Prediction, ABV-IIITM Gwalior, Madhya Pradesh
+* Feb 2024: Latest Advances in Computational and Applied Mathematics, IISER Thiruvananthapuram, Kerala
+* Apr 2022: Python Training for Scientific Computing and Data Science, IIT Guwahati
+* Feb 2022: Research and Industrial Conclave 2022, IIT Guwahati
+* Dec 2021: Introduction to MATLAB from a Numerical Analysis Perspective, IIT Guwahati
+* Sep 2021: 8th International Conference on Recent Advances in Pure and Applied Mathematics (ICRAPAM 2021), Bodrum, Turkey
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+See the [Teaching](/teaching/) page.
