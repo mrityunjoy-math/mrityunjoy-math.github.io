@@ -7,7 +7,7 @@ author_profile: true
 
 Current course
 ------
-**Basics of Algorithm** (GET Training Program), 4th semester MCA/MTech students, SOA University.
+**Data Mining and Predictive Analytics** (CSE 4859), 7th semester BTech students, SOA University.
 
 Courses taught at SOA University, Bhubaneswar
 ------

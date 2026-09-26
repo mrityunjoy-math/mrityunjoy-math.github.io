@@ -30,5 +30,5 @@ Email: [mrityunjoybarman@soa.ac.in](mailto:mrityunjoybarman@soa.ac.in) (office),
 Useful links
 ------
 * [IIT Guwahati](http://www.iitg.ac.in/)
-* [GATE 2026 - IIT Madras](https://gate2027.iitm.ac.in/)
-* [JAM 2026 - IIT Kharagpur](https://jam.iitkgp.ac.in/)
+* [GATE 2027 - IIT Madras](https://gate2027.iitm.ac.in/)
+* [JAM 2027 - IIT Kharagpur](https://jam.iitkgp.ac.in/)

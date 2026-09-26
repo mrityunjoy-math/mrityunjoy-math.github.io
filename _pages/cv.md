@@ -15,11 +15,11 @@ redirect_from:
 Education
 ======
 * PhD in Mathematics, Indian Institute of Technology Guwahati, Jul 2017 – Nov 2023
-  * Supervisor: [Prof. Srinivasan Natesan](http://iitg.ac.in/natesan)
-* MSc in Mathematics, Indian Institute of Technology Guwahati, Jul 2015 – Jun 2017
-* BSc, University of North Bengal, Jul 2012 – May 2015
+  * Supervisor: [Prof. Srinivasan Natesan](https://iitg.ac.in/natesan)
+* MSc in Mathematics and Computing, [Indian Institute of Technology Guwahati](https://www.iitg.ac.in), Jul 2015 – Jun 2017
+* BSc, in Mathematics (Honours), [University of North Bengal](https://www.nbu.ac.in), Jul 2012 – May 2015
 
-Work experience
+Work Experience
 ======
 * Assistant Professor, Department of CSE, Siksha 'O' Anusandhan University, Bhubaneswar, Oct 2023 – present
 * Senior Research Fellow, Department of Mathematics, IIT Guwahati, Jul 2017 – Dec 2023
