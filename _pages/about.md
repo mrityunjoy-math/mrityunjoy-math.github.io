@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to my homepage!"
 author_profile: true
 redirect_from:
   - /about/
@@ -13,7 +13,7 @@ I completed my **PhD in Mathematics at IIT Guwahati** under the supervision of *
 
 Before my PhD, I earned my **MSc in Mathematics and Computing** at **[IIT Guwahati](https://www.iitg.ac.in)** and my **BSc in Mathematics (Honours)** at the **[University of North Bengal](https://www.nbu.ac.in/)**, West Bengal.
 
-My research lies in the **numerical analysis of singular perturbation problems**. I am interested in designing and analysing robust numerical methods, such as layer-adapted meshes and splitting schemes, that remain accurate uniformly with respect to small perturbation parameters.
+My research lies in the **uniform analysis of efficient numerical methods for singular perturbation problems**. I am interested in designing and analysing robust numerical methods, such as layer-adapted meshes and splitting schemes, that remain accurate uniformly with respect to small perturbation parameters.
 
 Other profiles
 ------

@@ -17,7 +17,7 @@ Courses taught at SOA University, Bhubaneswar
 * Applied Linear Algebra (MTH 3003), Jan 2024 – May 2024
 * Algorithm Design 1 (CSE 3131), Sep 2023 – Jan 2024
 
-Teaching assistant at IIT Guwahati
+As Teaching Assistant at IIT Guwahati
 ------
 * Numerical Linear Algebra (MA 571), Jan – May 2022
 * Mathematics III (MA 201), Jul – Nov, 2018 – 2021
