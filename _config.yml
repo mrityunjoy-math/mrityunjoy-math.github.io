@@ -23,12 +23,12 @@ repository               : "mrityunjoy-math/mrityunjoy-math.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "PROFILE_PIC.jpg"
   name             : "Mrityunjoy Barman"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Numerical Analysis & Singular Perturbation Problems"
   location         : "Bhubaneswar, India"
-  employer         : "SOA University"
+  employer         : "Siksha 'O' Anusandhan University"
   uri              : # URL
   email            : "mrityunjoybarman@soa.ac.in" 
 
@@ -43,7 +43,7 @@ author:
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Mrityunjoy-Barman-2"
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58065235100"
   zotero           : # URL
 
 
