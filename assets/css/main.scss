@@ -37,3 +37,29 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* ---- Rectangular profile photo ---- */
+.sidebar .author__avatar,
+.sidebar .author__avatar img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.sidebar .author__avatar img {
+  max-width: 100%;          /* fill the full sidebar width */
+  aspect-ratio: auto;       /* keep the photo's own shape, no cropping */
+  border-radius: 0;         /* square corners, no circle */
+  padding: 0;
+  border: none;
+}
+
+/* On phones: a reasonable-size photo above the name instead of a tiny icon */
+@media (max-width: 924px) {
+  .sidebar .author__avatar img {
+    width: 160px;
+  }
+  .author__content {
+    display: block;
+    padding-left: 0;
+  }
+}
