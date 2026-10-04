@@ -1,0 +1,16 @@
+# Albums shown on the Gallery page, in this order.
+# "folder" must match a folder name inside images/gallery/.
+# Any folder you create that is NOT listed here still appears
+# (after these), titled from its folder name.
+
+- folder: nit-calicut
+  title: "NIT Calicut"
+  description: "Recent Trends in Differential Equations and Numerical Computing, June 2025"
+
+- folder: iiser-thiruvananthapuram
+  title: "IISER Thiruvananthapuram"
+  description: "Latest Advances in Computational and Applied Mathematics, February 2024"
+
+- folder: iit-guwahati
+  title: "IIT Guwahati"
+  description: "Memories from my MSc and PhD years"

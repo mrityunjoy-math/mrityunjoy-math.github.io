@@ -1,0 +1,65 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv"
+;
+/* ---- Rectangular profile photo ---- */
+.sidebar .author__avatar,
+.sidebar .author__avatar img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.sidebar .author__avatar img {
+  max-width: 100%;          /* fill the full sidebar width */
+  aspect-ratio: auto;       /* keep the photo's own shape, no cropping */
+  border-radius: 0;         /* square corners, no circle */
+  padding: 0;
+  border: none;
+}
+
+/* On phones: a reasonable-size photo above the name instead of a tiny icon */
+@media (max-width: 924px) {
+  .sidebar .author__avatar img {
+    width: 160px;
+  }
+  .author__content {
+    display: block;
+    padding-left: 0;
+  }
+}
